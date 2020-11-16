@@ -1,0 +1,6 @@
+vangogh120K Time: 0.915571 Optimal Value: 6532645.4732136
+courbet180K Time: 2.437454 Optimal Value: 7875872.4822461
+pareja160K Time: 1.318471 Optimal Value: 7608254.191907
+mona-lisa100K Time: 0.793393 Optimal Value: 5748948.82664499
+earring200K Time: 2.204556 Optimal Value: 8157003.00004318
+venus140K Time: 1.071614 Optimal Value: 6801089.09319278
